@@ -1,0 +1,1 @@
+GIT pre predmet programovenie aplikacii
